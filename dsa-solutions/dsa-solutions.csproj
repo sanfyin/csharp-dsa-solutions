@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>dsa_solutions</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="SlidingWindow\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SlidingWindow\" />
+  </ItemGroup>
+</Project>
