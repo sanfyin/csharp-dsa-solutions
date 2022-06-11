@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dsa-solutions-test", "dsa-s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dsa-solutions", "dsa-solutions\dsa-solutions.csproj", "{5DA78ED9-58F9-408F-A239-D598359F8B8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{93907CD4-5DE2-4425-AA04-E6F6F3843DD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5DA78ED9-58F9-408F-A239-D598359F8B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DA78ED9-58F9-408F-A239-D598359F8B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DA78ED9-58F9-408F-A239-D598359F8B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93907CD4-5DE2-4425-AA04-E6F6F3843DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93907CD4-5DE2-4425-AA04-E6F6F3843DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93907CD4-5DE2-4425-AA04-E6F6F3843DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93907CD4-5DE2-4425-AA04-E6F6F3843DD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
